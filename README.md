@@ -248,7 +248,7 @@ Além disso, ao final das execuções, são exibidas estatísticas globais:
 
 ### 7. Gráficos
 
-* ![Histórico de melhoria da 1ª execução usando `matplotlib`](https://github.com/Math-GSilva/PSO-Binary/blob/main/imgs/Historico.png)
+* ![Histórico de melhoria da 1ª execução usando `matplotlib`](imgs/hist.png)
 * ![Evolução do melhor valor por iteração](imgs/Evolucao.png)
 * ![Melhores valores das execuções](imgs/Melhores.png)
 * ![Boxplot da variação de resultados](imgs/Boxplot.png)
